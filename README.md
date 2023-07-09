@@ -1,7 +1,3 @@
-Sure! Here's the updated README file:
-
----
-
 ## Setup Instructions
 
 1. **Clone the repository**
@@ -85,7 +81,3 @@ Replace all `"your-xxx"` parts with your actual credentials.
 7. **Run the scripts**
 
 - Now you can run `image_scraper.py` to download images for each person, and `crop_faces.py` to crop faces from the downloaded images.
-
----
-
-I hope this helps! You may want to add a bit more detail or adjust some steps depending on the specifics of your project.
