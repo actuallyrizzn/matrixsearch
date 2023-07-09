@@ -5,7 +5,7 @@
 First, clone the repository containing the scripts to your local machine. You can do this by using the following command in your terminal:
 
 ```bash
-git clone [<repository URL>](https://github.com/actuallyrizzn/matrixsearch)
+git clone https://github.com/actuallyrizzn/matrixsearch
 ```
 
 Replace `<repository URL>` with the URL of your Git repository.
