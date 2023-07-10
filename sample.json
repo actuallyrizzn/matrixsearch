@@ -1,0 +1,22 @@
+{
+  "George Washington": [
+    "Founding Father",
+    "Revolutionary War"
+  ],
+  "Abraham Lincoln": [
+    "Civil War",
+    "Emancipation Proclamation"
+  ],
+  "Franklin D. Roosevelt": [
+    "Great Depression",
+    "World War II"
+  ],
+  "John F. Kennedy": [
+    "Space Race",
+    "Cold War"
+  ],
+  "Barack Obama": [
+    "First African-American President",
+    "Affordable Care Act"
+  ]
+}
